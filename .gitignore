@@ -2,3 +2,5 @@
 .vs
 SelectionMover/bin
 SelectionMover/obj
+SelectionMover/Properties
+SelectionMover/SelectionMover.csproj.user
